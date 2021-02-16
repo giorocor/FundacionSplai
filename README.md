@@ -1,6 +1,6 @@
 # FundacionSplai
 
-![banerGit](https://user-images.githubusercontent.com/16636086/106938115-ded34680-671e-11eb-8de4-35fd6d00868a.png)
+![banerGit](https://user-images.githubusercontent.com/71090798/108059654-7fe6c900-705e-11eb-8d9e-56e304fad354.jpg)
 
 # Programando JAVA en Eclipse
 
