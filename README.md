@@ -16,7 +16,7 @@
 Repositorio de mis primeros pasos programandon con JAVA en eclipse.
 ```
 
-#### 3. Link a un demo con el proyecto desplegado: https://github.com/
+#### 3. Link a un demo con el proyecto desplegado: https://github.com/giorocor/FundacionSplai
 
 ```
 * Nombre de la App: [GITTT] (https://github.com/)
